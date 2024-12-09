@@ -11,3 +11,4 @@ Solutions of [Advent of Code 2024](https://adventofcode.com/2024) in [Python](ht
 | 6    | Guard Gallivant       | ⭐⭐    |
 | 7    | Bridge Repair         | ⭐⭐    |
 | 8    | Resonant Collinearity | ⭐⭐    |
+| 9    | Disk Fragmenter       | ⭐⭐    |
