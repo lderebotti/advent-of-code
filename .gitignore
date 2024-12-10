@@ -1,2 +1,4 @@
 python/.venv/*
 input.txt
+*.py.txt
+*.pyc
